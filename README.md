@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 I'm currently a KMUTT junior student majoring in Applied Computer Science. <br>I want to pursue a career in data engineer.
 
