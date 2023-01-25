@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm currently a KMUTT junior student majoring in Applied Computer Science. <br>I want to pursue a career in data engineer.
 
+- 🔭 I’m currently studying in KMUTT
+- 🌱 I’m currently learning about data science field
+- 🤔 I’m currently interesting in data engineer 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Playmaker) 
